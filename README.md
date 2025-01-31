@@ -31,3 +31,16 @@ This Dashboard provides summary of inbound calls from from four major call cente
 ## Dashboard Breakdown
   * The dashboard is fully interactable
   * The Filters are dependent on each other and change according to selection
+
+## key insights
+1. LA is the most popular call centre receiving the most amount of calls whilst Denver is the least popular with the least amount of calls.
+2. Most calls (63%) fall within SLA standards and 25% exceed acceptable SLA thresholds.
+3. LA shows the highest positive sentiments but also the highest negative sentiments.
+4. customers prefer self service options (80%) as opposed to direct call centre interactions (20%)
+5. Majority of the calls are about billing questions
+
+## Recommendations
+1. Optimise resource allocation by re-directing agents and resources from least popular call centres to popular centres
+2. To improve on SLA further periodic training to agents can be implemented based on prominent call reasons
+3. Invest in improvements to the self service options and gather feedback from users to keep on improving the efficiency given the popularity of self service options
+4. Simplify billing systems and provide more communication in regards to any changes or updates to systems.
