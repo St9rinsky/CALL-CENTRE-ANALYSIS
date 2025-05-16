@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/40b7a974-2d3a-4bd9-b459-87ad41bb1e3a)
 
 ## SUMMARY
-This Dashboard provides summary of inbound calls from from four major call centers in the United states, Data with over 30 000 records was cleaned and analysed using Ms excel and pivot tables and finally the data insights visualised over on Power Bi
+The Customer Support Manager of a fictional call center with locations in New York, Baltimore, Chicago, and Denver has raised concerns about the current average Customer Satisfaction (CSAT) score across all centers. The stakeholder has approached the data team to investigate the underlying factors contributing to the subpar CSAT performance. The objective is to uncover actionable insights that can help improve the CSAT score to above-average levels.
 
 ## The dashboard answers the following business questions and more 
 
