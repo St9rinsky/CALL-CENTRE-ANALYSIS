@@ -1,7 +1,5 @@
 # POWER BI | CALL CENTRE DASHBOARD
 
-![image](https://github.com/user-attachments/assets/40b7a974-2d3a-4bd9-b459-87ad41bb1e3a)
-
 ## PROJECT BACKGROUND
 The Customer Support Manager of a fictional call center with locations in Baltimore, Chicago, Denver and Los Angeles has raised concerns about the current average Customer Satisfaction (CSAT) score across all centers. The stakeholder has approached the data team to investigate the underlying factors contributing to the subpar CSAT performance. The objective is to uncover actionable insights that can help improve the CSAT score to above-average levels.
 ## EXECUTIVE SUMMARY
@@ -15,43 +13,16 @@ Key findings from the analysis highlighted specific operational challenges contr
 
 Callcentre ERD
 
+## KEY INSIGHTS
 
-## The dashboard answers the following business questions and more 
+![image](https://github.com/user-attachments/assets/40b7a974-2d3a-4bd9-b459-87ad41bb1e3a)
 
-1. **Customer satisfaction and expreince**
-   * How satisfied are customers with their interaction?
-   * Which factors contribute to dissatisfaction?
-     
-2. **Call center Perfomance**
-   * How many calls are being handled by each call center?
-   * What is the average responce time and are SLA's met?
-   * What is the average call duration and is it dependent on location or issue at hand?
-
-3. **Call reasons and issue resolution**
-   * What are the most common reasons customers contact the call centers?
-   * How does the call reason impact customer sentiment or resolution time?
-
-## I took the following steps to create the dashboard
-1. Imported the raw data into Ms Excel.
-2. Cleaned and Normalised the Data in Excel.
-3. Created Pivot Tables to Analyse the data.
-4. Imported the Excel file into Power BI.
-5. Created Visualisations on Power BI from all the insights found using pivot tables in Excel.
-6. Published everything on Github.
+**INSIGHTS**
+* Los Angeles and Baltimore call centres are the most popular receiving a combined 75% of the total calls from all the call centres.
+* over 60% of the calls are based on billing questions and most of the customers prefer to use self service methods such as chatbot, Email and Web serices and this could be contributed by the prolonged resolution times experinced by customers averaging at 25 min per call.
    
-## Dashboard Breakdown
-  * The dashboard is fully interactable
-  * The Filters are dependent on each other and change according to selection
-
-## key insights
-1. LA is the most popular call centre receiving the most amount of calls whilst Denver is the least popular with the least amount of calls.
-2. Most calls (63%) fall within SLA standards and 25% exceed acceptable SLA thresholds.
-3. LA shows the highest positive sentiments but also the highest negative sentiments.
-4. customers prefer self service options (80%) as opposed to direct call centre interactions (20%)
-5. Majority of the calls are about billing questions
-
-## Recommendations
+**RECOMMENDATIONS**
 1. Optimise resource allocation by re-directing agents and resources from least popular call centres to popular centres
-2. To improve on SLA further periodic training to agents can be implemented based on prominent call reasons
-3. Invest in improvements to the self service options and gather feedback from users to keep on improving the efficiency given the popularity of self service options
-4. Simplify billing systems and provide more communication in regards to any changes or updates to systems.
+2. To improve on resolution times further periodic training to agents can be implemented based on prominent call reasons.
+3. Since most people prefer self service options investing in improvements to the self service options and gathering feedback from users to keep on improving the efficiency.
+4. Since currently most of the question are about billing simplifying the billing systems and providing more communication in regards to any changes or updates to systems should be key.
