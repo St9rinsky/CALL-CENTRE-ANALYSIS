@@ -4,6 +4,13 @@
 
 ## PROJECT BACKGROUND
 The Customer Support Manager of a fictional call center with locations in Baltimore, Chicago, Denver and Los Angeles has raised concerns about the current average Customer Satisfaction (CSAT) score across all centers. The stakeholder has approached the data team to investigate the underlying factors contributing to the subpar CSAT performance. The objective is to uncover actionable insights that can help improve the CSAT score to above-average levels.
+## EXECUTIVE SUMMARY
+This project was initiated in response to concerns raised by the Customer Support Manager regarding the average Customer Satisfaction (CSAT) scores reported across all call centers. The stakeholder’s goal was to understand the factors influencing these scores and identify strategies to improve performance above current averages.
+
+To address this, a comprehensive analysis was conducted using call center performance data, including metrics such as call duration, customer sentiment, response times, and call volume. The objective was to uncover patterns, correlations, and root causes that may be impacting customer satisfaction.
+
+Key findings from the analysis highlighted specific operational challenges contributing to lower CSAT scores, such as prolonged call/resolution times and inconsistent service quality among agents. Based on these insights, targeted recommendations were developed ranging from agent training programs and process optimization to resource alloacations and re-directing.The outcomes of this project are intended to support data-driven decision-making and empower the stakeholder to implement effective changes that will elevate CSAT scores across all call centers.
+
 
 ## The dashboard answers the following business questions and more 
 
