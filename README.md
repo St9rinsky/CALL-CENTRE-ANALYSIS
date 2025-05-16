@@ -1,6 +1,7 @@
 # POWER BI | CALL CENTRE DASHBOARD
 
 ![image](https://github.com/user-attachments/assets/40b7a974-2d3a-4bd9-b459-87ad41bb1e3a)
+<img width="141" alt="image" src="https://github.com/user-attachments/assets/0fb84b9a-e226-4cf5-946c-54714d263dd2" />
 
 ## PROJECT BACKGROUND
 The Customer Support Manager of a fictional call center with locations in Baltimore, Chicago, Denver and Los Angeles has raised concerns about the current average Customer Satisfaction (CSAT) score across all centers. The stakeholder has approached the data team to investigate the underlying factors contributing to the subpar CSAT performance. The objective is to uncover actionable insights that can help improve the CSAT score to above-average levels.
@@ -10,6 +11,7 @@ This project was initiated in response to concerns raised by the Customer Suppor
 To address this, a comprehensive analysis was conducted using call center performance data, including metrics such as call duration, customer sentiment, response times, and call volume. The objective was to uncover patterns, correlations, and root causes that may be impacting customer satisfaction.
 
 Key findings from the analysis highlighted specific operational challenges contributing to lower CSAT scores, such as prolonged call/resolution times and inconsistent service quality among agents. Based on these insights, targeted recommendations were developed ranging from agent training programs and process optimization to resource alloacations and re-directing.The outcomes of this project are intended to support data-driven decision-making and empower the stakeholder to implement effective changes that will elevate CSAT scores across all call centers.
+<img width="141" alt="image" src="https://github.com/user-attachments/assets/0fb84b9a-e226-4cf5-946c-54714d263dd2" />
 
 
 ## The dashboard answers the following business questions and more 
