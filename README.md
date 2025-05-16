@@ -11,9 +11,9 @@ To address this, a comprehensive analysis was conducted using call center perfor
 
 Key findings from the analysis highlighted specific operational challenges contributing to lower CSAT scores, such as prolonged call/resolution times and inconsistent service quality among agents. Based on these insights, targeted recommendations were developed ranging from agent training programs and process optimization to resource alloacations and re-directing.The outcomes of this project are intended to support data-driven decision-making and empower the stakeholder to implement effective changes that will elevate CSAT scores across all call centers.
 
-<img width="141" alt="image" src="https://github.com/user-attachments/assets/0fb84b9a-e226-4cf5-946c-54714d263dd2" /> 
+<img width="151" alt="erd2" src="https://github.com/user-attachments/assets/b246a9a3-f377-4441-8072-3eb28f924a23" />
 
-Call centre ERD
+Callcentre ERD
 
 
 ## The dashboard answers the following business questions and more 
